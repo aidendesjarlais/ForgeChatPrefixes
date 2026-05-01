@@ -17,6 +17,5 @@ I got so fuckin tired of it i just decided id learn how to make a mod. And here 
 ### Config
 ![image](https://github.com/TOG11/ForgeChatPrefixes/assets/71170613/296ef23b-f675-448b-b12e-a1238d0f6f6b)
 Located in Server/WorldName/serverconfig/chatprefixes.toml
-
-
-# Created For AshDubh's SMPMAS.
+<br>
+Sorry for the increidbly shitty config, i got super lazy. Worst part is, i've lost the source for this mod, grrrrrr
