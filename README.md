@@ -8,10 +8,10 @@ I got so fuckin tired of it i just decided id learn how to make a mod. And here 
 ## This is a SERVER-SIDE mod.
 (Only the server needs to have this installed)
 
-### Default ( \<Dev\> To (Dev) )
+### Default Style ( \<Username\> To (Username) )
 ![image](https://github.com/TOG11/ForgeChatPrefixes/assets/71170613/c9157d39-0019-457b-a0c2-c1f4169c1fd5)
 <br>
-### Prefix
+### Prefix Style
 ![image](https://github.com/TOG11/ForgeChatPrefixes/assets/71170613/19343133-f977-41dc-a980-4080ecb10f1b)
 <br>
 ### Config
