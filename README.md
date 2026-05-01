@@ -1,9 +1,8 @@
 # ForgeChatPrefixes 1.20.1
 
-Were you look for hours like i was? for a 1.20.1 Forge chat prefix mod? well fear not!
+Were you looking for hours like i was? for a 1.20.1 Forge chat prefix mod? well fear not!
 <br>
-I got so fuckin tired of it i just decided id learn how to make a mod. And here is the result of that.<br>
-(im a C# & JS Dev so Java's not too hard, very shitty documentation on the Forge API, especially newer versions)
+I got so fuckin tired of it i just decided id learn how to make a mod. And here is the result of that.
 <br><br>
 
 ## This is a SERVER-SIDE mod.
